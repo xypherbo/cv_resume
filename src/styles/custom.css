@@ -1,0 +1,10 @@
+html,
+body {
+    font-family: 'Roboto', sans-serif;
+    height: 100%;
+}
+
+::first-letter {
+    margin: 0;
+    padding: 0;
+}
