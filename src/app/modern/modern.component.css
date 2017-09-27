@@ -1,0 +1,6 @@
+@media print {
+    blockquote,
+    pre {
+        border: 1px solid #FFF;
+    }
+}
